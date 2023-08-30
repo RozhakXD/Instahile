@@ -72,8 +72,8 @@ $ python Run.py
 
 ### What is recommended?
 
-- You can use several Termux sessions to get lots of likes.
 - You are required to change the fake account password to avoid losing the account.
+- You can use several Termux sessions to get lots of likes.
 - You have to use a fake account to login in this script.
 
 ### Your Instagram fake account is deactivated or checkpoint?
