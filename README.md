@@ -20,7 +20,7 @@
 [**Instahile**](https://github.com/RozhakXD/Instahile) is a script to get likes every hour based on a like provider from Turkey. You can also use several sessions in the Termux application to run this script.
 
 ### Termux command?
-You can also see how to use this script on my [**Youtube**](https://www.youtube.com/rozhakid).
+You can also see how to use this script on my [**Youtube**](https://youtu.be/58Jt2lYap14).
 
 Download the [Termux](https://f-droid.org/repo/com.termux_118.apk) application then enter all commands in the Termux application.
 ```
