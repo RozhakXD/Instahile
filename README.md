@@ -83,11 +83,6 @@ $ python Run.py
 - The Instagram account must have a phone number, email and profile photo.
 - Use a new account when logging in and agree if hit by a checkpoint.
 
-### Follower waiting time?
-
-- If it says you've run out of credit, you can wait 30 minutes to get followers.
-- If you run out of credit you can use another new Instagram account.
-
 ### Why are the likes decreasing?
 
 - [Why am I seeing a change in the number of likes, follows or comments on Instagram?](https://help.instagram.com/572730176521116/?helpref=search&query=Mengapa%20saya%20melihat%20ada%20perubahan%20jumlah%20suka%2C%20ikuti%2C%20atau%20komentar%20di%20Instagram%3F&search_session_id=&sr=1).
