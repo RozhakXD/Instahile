@@ -95,6 +95,19 @@ $ python Run.py
 - You can use another account to get likes.
 - You can wait for about an hour for the credit to return.
 
+### Post link requirements?
+
+- Change the reels post to p, for example: **https://www.instagram.com/reels/CXyPwLSJCtl/ -> https://www.instagram.com/p/CXyPwLSJCtl/.**
+- Instagram account is not locked or private.
+- Get post links in a browser or Instagram Lite application.
+- Visit the post link in the browser and make sure the post link is correct.
+
+### Resolve media id not available?
+
+- You took the wrong posting link.
+- I believe your Instagram account has been hit by Checkpoint.
+- The post link you entered is not available.
+
 ### How long does it take for likes to arrive?
 Once you convert credits to likes it should arrive on Instagram posts in less than 10 minutes. If more than 10 minutes means there is a problem when exchanging credits to likes.
 
